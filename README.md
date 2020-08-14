@@ -1,7 +1,5 @@
-# Python repositories
-My Python repositories using `python3`.
+# My python repositories
 
-## List
 * [acv-analyzer](https://github.com/afforeroc/acv-analyzer)<br/>
 Sample Solution that uses image analyzer of Azure Computer Vision.
 
